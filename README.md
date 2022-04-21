@@ -6,7 +6,7 @@
 #### ACQUEST made with Flutter!
 
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) 
-![Flutter_Version](https://img.shields.io/badge/Flutter-Version-v2.10.3-success) ![Release](https://img.shields.io/badge/Release-v1.0.0-orange) 
+![Flutter_Version](https://img.shields.io/badge/Flutter Version-v2.10.3-success) ![Release](https://img.shields.io/badge/Release-v1.0.0-orange) 
 
 ## Features
 
